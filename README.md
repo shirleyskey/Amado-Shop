@@ -1,0 +1,2 @@
+# Amado-Shop
+Code practice
